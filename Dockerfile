@@ -1,4 +1,4 @@
-FROM tarampampam/node:13.1-alpine
+FROM node:latest
 
 LABEL url.docker="https://hub.docker.com/r/hexeth/textbelt-docker" \
       url.github="https://github.com/hexeth/textbelt-docker" \
